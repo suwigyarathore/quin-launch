@@ -23,7 +23,7 @@ export const LaunchMap = ({launchLocations, zoom = 2}: LaunchMapProps) => {
 
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
-    googleMapsApiKey: "AIzaSyD6RWutmRU2UpZ-6Yl_ERlm_6dRzUDVx1M"
+    googleMapsApiKey: "apikeyremoved"
   })
 
   
